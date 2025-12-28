@@ -1,6 +1,6 @@
 # Research Proposal: Dimensional Tomographic Protocols for Sparse Data Verification
 
-**Candidate:** Namdi Michael Obinexuseze  
+**Candidate:** Namdi Michael Okpala
 **Proposed Program:** PhD in Computer Science / Distributed Systems  
 **Research Domain:** Cryptographic Verification, Tomographic Computing, Human-Rights-Aware System Architecture
 
