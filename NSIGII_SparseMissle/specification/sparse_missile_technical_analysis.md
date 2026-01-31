@@ -1,14 +1,14 @@
-# INSIGI EZE Protocol: Sparse Missile System Analysis
+# NSIGII EZE Protocol: Sparse Missile System Analysis
 
 ## Executive Summary
-The INSIGI Sparse Missile represents a **paradigm shift** from traditional weapons systems to multi-purpose payload delivery using phenomenological navigation, radiographic prediction, and command-intercept capabilities. This document analyzes the technical architecture and its integration with OBINexus frameworks.
+The NSIGII Sparse Missile represents a **paradigm shift** from traditional weapons systems to multi-purpose payload delivery using phenomenological navigation, radiographic prediction, and command-intercept capabilities. This document analyzes the technical architecture and its integration with OBINexus frameworks.
 
 ---
 
 ## 1. CORE CONCEPT: "Not a Toy, Not a Weapon"
 
 ### Philosophical Foundation
-**INSIGI Principle:** Systems must be multi-use, safety-critical, and human rights-compliant.
+**NSIGII Principle:** Systems must be multi-use, safety-critical, and human rights-compliant.
 
 ```
 Traditional Missile: Single Purpose (Destroy Target)
@@ -63,7 +63,7 @@ Traditional missile defense measures **after** the missile enters your dimension
 Traditional (Tomahawk):
 Launch → Cruise (constant altitude) → Terminal Dive
 
-Sparse (INSIGI):
+Sparse (NSIGII):
 Launch → Hoop 1 (climb) → Hoop 2 (loop) → Hoop 3 (descent) → Delivery
 ```
 
@@ -133,7 +133,7 @@ else:
 - Spoofing attacks
 - Requires satellite uplink (detectable)
 
-**INSIGI Alternative: Radiographic Prediction**
+**NSIGII Alternative: Radiographic Prediction**
 
 **Core Concept:**
 Instead of **reacting** to environment, **predict** pixel colors ahead of time using:
@@ -189,7 +189,7 @@ Kick starter (noise) → Jump start (masked by noise) → Engine ON
 ### B. Radio Silence Hacking
 
 **The Threat:**
-> "You can intercept real-world Tomahawk/Raptor/Reaper via observer INSIGI"
+> "You can intercept real-world Tomahawk/Raptor/Reaper via observer NSIGII"
 
 **How It Works:**
 ```
@@ -345,7 +345,7 @@ When missile encounters "shock" (unexpected obstacle):
 **Fatigue Detection:**
 ```
 Repeated stress cycles → Microscopic cracks
-INSIGI monitors:
+NSIGII monitors:
 - Number of hoop maneuvers
 - G-forces on structure
 - Material stress via strain gauges
@@ -420,7 +420,7 @@ Tomahawks use **GPS + inertial navigation**. If you can spoof GPS signal at the 
 
 ## 9. COMPARISON TABLE: SYSTEMS ANALYSIS
 
-| Feature | Tomahawk | INSIGI Sparse Missile |
+| Feature | Tomahawk | NSIGII Sparse Missile |
 |---------|----------|------------------------|
 | **Primary Purpose** | Destroy target | Multi-use (deliver/defend/aid) |
 | **Trajectory** | Flat cruise | Multi-hoop (3D maneuver) |
@@ -468,7 +468,7 @@ Tomahawks use **GPS + inertial navigation**. If you can spoof GPS signal at the 
 
 #### B. Security Concerns
 1. **Dual-use dilemma**: Same system that delivers aid can deliver explosives
-2. **Hijack vulnerability**: If INSIGI can hack Tomahawks, adversaries can hack INSIGI
+2. **Hijack vulnerability**: If NSIGII can hack Tomahawks, adversaries can hack NSIGII
 3. **Noise Star detection**: Sophisticated sensors might detect "absence of signal" patterns
 4. **Swarm coordination**: Loss of one missile could cascade to others
 
@@ -545,7 +545,7 @@ Show: P(|H_pred - H_actual| < ε) > 0.95
 ## 13. GITHUB REPOSITORIES MENTIONED
 
 ### A. `github.com/obinexus/nsigii-eze-protocol`
-**Purpose:** Core INSIGI protocol specification
+**Purpose:** Core NSIGII protocol specification
 
 **Expected Contents:**
 - `eze/` - King (Asa) entity definitions
@@ -555,7 +555,7 @@ Show: P(|H_pred - H_actual| < ε) > 0.95
 - `konami/` - Symbolic control sequences
 
 ### B. `github.com/obinexus/blueshare`
-**Purpose:** INSIGI tournament competition framework
+**Purpose:** NSIGII tournament competition framework
 
 **Use Cases:**
 - Host simulation environments
@@ -569,7 +569,7 @@ Show: P(|H_pred - H_actual| < ε) > 0.95
 
 ### The Central Argument
 
-**Traditional missiles treat lethality as primary function, with humanitarian applications as afterthought. INSIGI proves multi-purpose design improves both offensive capability AND humanitarian reach while reducing collateral damage.**
+**Traditional missiles treat lethality as primary function, with humanitarian applications as afterthought. NSIGII proves multi-purpose design improves both offensive capability AND humanitarian reach while reducing collateral damage.**
 
 ### Evidence Structure
 
@@ -590,7 +590,7 @@ Show: P(|H_pred - H_actual| < ε) > 0.95
 
 > "Breathing is never optional. Living is never optional. Only work is optional."
 
-If this applies to humans, it must apply to **systems operated by humans**. A missile that can only kill violates this principle. A missile that can deliver life-saving aid, defend against threats, AND execute precision strikes when necessary **embodies** the INSIGI philosophy.
+If this applies to humans, it must apply to **systems operated by humans**. A missile that can only kill violates this principle. A missile that can deliver life-saving aid, defend against threats, AND execute precision strikes when necessary **embodies** the NSIGII philosophy.
 
 The sparse missile isn't **an alternative** to Tomahawks - it's the **only ethically consistent architecture possible** once you accept that human rights must be computational primitives.
 
@@ -598,7 +598,7 @@ The sparse missile isn't **an alternative** to Tomahawks - it's the **only ethic
 
 ## Appendix A: Key Terms Cross-Reference
 
-| INSIGI Term | Military Equivalent | Humanitarian Equivalent |
+| NSIGII Term | Military Equivalent | Humanitarian Equivalent |
 |-------------|---------------------|-------------------------|
 | Sparse Missile | Cruise Missile | Aid Drone |
 | Hoop Trajectory | Ballistic Arc | Parabolic Drop |
@@ -634,6 +634,6 @@ det([a b]) = ad - bc
 
 **END DOCUMENT**
 
-*"May the rift be with you, and the INSIGI protocol here and now."*
+*"May the rift be with you, and the NSIGII protocol here and now."*
 
 **Status:** Ready for Phase 1 implementation pending LaTeX specification completion and patent filing.
